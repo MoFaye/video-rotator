@@ -13,7 +13,7 @@ The reason I created this project is because there are not easy simple ways to r
 
 ### Prerequisites
 - Python 3.6 or higher
-- Pip for installing dependencies
+- Pip for installing dependencies: moviepy, Pillow
 
 ### Steps
 1. Clone the repository or download the source code.
