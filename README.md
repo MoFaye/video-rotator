@@ -1,4 +1,4 @@
-# Video Rotator Tool
+# Simple Video Rotator Tool for Windows
 
 ## Introduction
 The reason I created this project is because there are not easy simple ways to rotate and save videos on Windows. The Video Rotator Tool is a Python-based application designed to easily rotate videos on Windows. It allows users to select a video file, choose a rotation angle, then save the rotated video either by overwriting the original or saving a new file in the same directory. This tool is ideal for quickly adjusting the orientation of videos without needing complex video editing software.
