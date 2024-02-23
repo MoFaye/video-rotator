@@ -18,4 +18,5 @@ The reason I created this project is because there are not easy simple ways to r
 ### Steps
 1. Clone the repository or download the source code.
 2. After running the python script, you will get the following pop-up to use:
+
 ![image](https://github.com/MoFaye/video-rotator/assets/107354564/2d629e19-d48f-4244-884d-97e10d3dfd48)
